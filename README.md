@@ -4,7 +4,7 @@
 
 I'm a technical leader with 20+ years of experience spanning software architecture, enterprise platform engineering, and global go-to-market strategy. I've built systems that contributed to **$16B+ in energy market benefits**, led observability strategy across Fortune 500 accounts at **Splunk and Cisco**, and directed engineering organizations of 100+ globally.
 
-📍 Lynn, MA &nbsp;|&nbsp; 🔗 [linkedin.com/in/yohanajosephson](https://www.linkedin.com/in/yohanajosephson) &nbsp;|&nbsp;
+📍 Lynn, MA &nbsp;|&nbsp; 🔗 [linkedin.com/in/yohanajosephson](https://www.linkedin.com/in/yohanajosephson) &nbsp;
 
 ---
 
